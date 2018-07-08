@@ -1,14 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Bree+Serif);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,900,300);
 
-html {
-	background: url(../images/poly_blob.svg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
 body {
 	font-family: Roboto;
 	font-weight: 400;
@@ -39,7 +31,7 @@ h2 {
 h3 {
 	font-family: 'Bree Serif';
 	color: rgba(189, 110, 76, 1);
-	font-size: 1.8em;
+	font-size: 1.6em;
 	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 	margin-top: -0.2em;
@@ -48,26 +40,26 @@ h3 {
 
 h4 {
 	color: rgba(166, 0, 77, 1);
-	font-size: 2.2em;
-	font-weight: 400;
+	font-size: 1.2em;
+	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 }
 
 h5 {
 	color: rgba(189, 96, 57, 1);
-	font-size: 1.1em;
-	font-weight: 500;
+	font-size: 1.2em;
+	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 }
 
 p {
-	font-weight: 300;
-	font-size: 1.2em;
+	font-weight: 100;
+	font-size: 1em;
 	color: rgba(58, 98, 96, 1);
 }
 
 a {
-	font-weight: 500;
+	font-weight: 300;
 	color: rgba(117, 201, 198, 1);
 	padding:0 0.3em;
 	border-radius: 3px;
@@ -88,7 +80,7 @@ ul {
 
 table {
 	font-family: 'Bree Serif';
-	font-size: 1.1em;
+	font-size: 1em;
 	color: rgba(141, 47, 58, 1);
 	line-height: 1.7em;
 }
@@ -110,195 +102,10 @@ img.center {
 	overflow: hidden;
 }
 
-.HeaderTitle h1 {
-	font-size: 3em;
-	margin-top: 0em;
-}
-
-.HeaderTitle h2 {
-	font-size: 2.2em;
-	margin-top: -1em;
-	margin-bottom: -1em;
-}
-
-.HeaderTitle a:hover {
-	background: none;
-}
-
-.HeaderImage img {
-	float: center;
-	width: 100%;
-	max-width: 200px;
-}
-
-.HeaderImage a:hover {
-	background: none;
-}
-
-.Title h3 {
-	font-size: 3em;
-	font-weight: 900;
-	margin-top: 0.2em;
-	margin-bottom: 0em;
-}
-
-.Navigation {
-	overflow: hidden;
-	font-weight: 300;
-}
-
-.Navigation a {
-	font-size: 12em;
-	float: left;
-	min-width: 60px;
-	display: block;
-	color: rgba(176,0,59,1);
-	background: rgba(255,183,95,0.8);
-	text-align: center;
-	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
-	text-align: center;
-	border-bottom: none;
-	border-radius: 10px;
-	padding: .5em .6em;
-	margin-right: .3em;
-	text-decoration: none;
-	font-size: 1.4em;
-	line-height:1.5em;
-}
-
-.Navigation a.contact {
-	background-color: rgba(0,0,0,0);
-	float: right;
-	min-width: 1.4em;
-	margin: -.1em -.1em;
-}
-
-.Navigation img {
-	width: 100%;
-}
-
-.Navigation a:hover {
-	color: rgba(255,200,0,01);
-	background: rgba(176,0,59,0.7);
-}
-
-.Navigation a.current  {
-	color: rgba(255,200,0,01);
-	background: rgba(176,0,59,0.7);
-}
-
-.Navigation .icon {
-	display: none;
-}
-
-.Footer  p {
+.footer  p {
 	font-size: 0.6em;
 	font-weight: 400;
 	color: rgba(255, 128, 128, 1);
 	padding-top: 1.5em;
 	padding-bottom: 2em;	
-}
-
-@media screen and (max-width: 42em) {
-	.HeaderImage img {
-		width: 100%;
-		max-height: 80px;
-	}
-	.HeaderTitle h1 {
-		font-size: 2em;
-		margin-top: -0.2em;
-	}
-	.HeaderTitle h2 {
-		font-size: 1.4em;
-		margin-bottom: 0em;
-	}
-	a {
-		-webkit-transition: 0.1s;
-		transition: 0.1s;
-	}
-	.divider {
-		margin-top: 2em;
-		width: 90%;
-	}
-	.Navigation a {
-		font-size: 1.3em;
-		line-height:1.1em;
-		margin-right: 0.2em;
-		float: left;
-		display: block;
-		text-align: center;
-		width: 55%;
-		-webkit-transition: 0s;
-		transition: 0s;
-	}
-	.Navigation a:not(:first-child) {
-		display: none;
-	}
-	.Navigation a.icon {
-		float: right;
-		display: block;
-		max-width: 10%;
-	}
-	.Navigation.responsive {
-		position: relative;
-	}
-	.Navigation.responsive .icon {
-		position: absolute;
-		right: 0;
-		top: 0;
-		max-width: 10%;
-	}
-
-
-	.Navigation.responsive a {
-		float: none;
-		display: block;
-		margin-bottom: 0.5em;
-	}
-	.Navigation.responsive a:not(:first-child) {
-		float: none;
-		display: block;
-		text-align: center;
-		width: 90%;
-		margin-bottom: 0.3em;
-		padding-right: 0.1em;
-	}
-	.Navigation.responsive a.contact {
-		float: right;
-		padding: 10px;
-		margin: 0.5em 0.5em;
-		max-width: 60px;
-	}
-	
-	.Title h3 {
-		margin-top: 0.3em;
-		margin-bottom: 0.3em;
-	}
-}
-@media screen and (max-width: 25em) {
-	.HeaderTitle h1 {
-		font-size: 1.4em;
-		margin-top: -.6em;
-	}
-	.HeaderTitle h2 {
-		font-size: 1.2em;
-		margin-top: -.,5em;
-		margin-bottom: .1em;
-	}
-	.HeaderImage img {
-		width: 15%;
-		min-width: 70px;
-		max-width: 200px;
-	}
-	.Navigation a {
-		width: 40%;
-	}
-	.Navigation.responsive a.contact {
-		float: right;
-		float: right;
-		padding: 5px;
-		padding-bottom: 3px;
-		margin: 0.5em 0.5em;
-		max-width: 50px;
-	}
 }
