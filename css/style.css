@@ -8,6 +8,7 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
 body {
 	font-family: Roboto;
 	font-weight: 400;
@@ -20,44 +21,51 @@ body {
 	padding-right: .7em;
 	overflow-y: scroll;
 }
+
 h1 {
 	font-weight: 900;
 	font-size: 2.5em;
 	color: rgba(166, 0, 77, 1);
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.6);
 }
+
 h2 {
 	color: rgba(174, 66, 36, 1);
 	font-size: 2em;
 	font-weight: 300;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.5);
 }
+
 h3 {
 	font-family: 'Bree Serif';
 	color: rgba(189, 110, 76, 1);
-	font-size: 2.2em;
+	font-size: 1.8em;
 	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 	margin-top: -0.2em;
 	margin-bottom: 0em;
 }
+
 h4 {
 	color: rgba(166, 0, 77, 1);
 	font-size: 2.2em;
 	font-weight: 400;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 }
+
 h5 {
 	color: rgba(189, 96, 57, 1);
 	font-size: 1.1em;
 	font-weight: 500;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 }
+
 p {
 	font-weight: 300;
 	font-size: 1.2em;
 	color: rgba(58, 98, 96, 1);
 }
+
 a {
 	font-weight: 500;
 	color: rgba(117, 201, 198, 1);
@@ -67,20 +75,24 @@ a {
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
+
 a:hover {
 	background: rgba(245, 151, 110, 0.4);
 	color: rgba(96, 164, 161, 1);
 }
+
 ul {
 	color: rgba(141, 63, 58, 1);
 	list-style-type: none;
 }
+
 table {
 	font-family: 'Bree Serif';
 	font-size: 1.1em;
 	color: rgba(141, 47, 58, 1);
 	line-height: 1.7em;
 }
+
 img.center {
    display: block;
    margin: 0 auto;
@@ -102,11 +114,13 @@ img.center {
 	font-size: 3em;
 	margin-top: 0em;
 }
+
 .HeaderTitle h2 {
 	font-size: 2.2em;
 	margin-top: -1em;
 	margin-bottom: -1em;
 }
+
 .HeaderTitle a:hover {
 	background: none;
 }
@@ -116,6 +130,7 @@ img.center {
 	width: 100%;
 	max-width: 200px;
 }
+
 .HeaderImage a:hover {
 	background: none;
 }
@@ -131,6 +146,7 @@ img.center {
 	overflow: hidden;
 	font-weight: 300;
 }
+
 .Navigation a {
 	font-size: 12em;
 	float: left;
@@ -149,29 +165,34 @@ img.center {
 	font-size: 1.4em;
 	line-height:1.5em;
 }
+
 .Navigation a.contact {
 	background-color: rgba(0,0,0,0);
 	float: right;
 	min-width: 1.4em;
 	margin: -.1em -.1em;
 }
+
 .Navigation img {
 	width: 100%;
 }
+
 .Navigation a:hover {
 	color: rgba(255,200,0,01);
 	background: rgba(176,0,59,0.7);
 }
+
 .Navigation a.current  {
 	color: rgba(255,200,0,01);
 	background: rgba(176,0,59,0.7);
 }
+
 .Navigation .icon {
 	display: none;
 }
 
 .Footer  p {
-	font-size: 1em;
+	font-size: 0.6em;
 	font-weight: 400;
 	color: rgba(255, 128, 128, 1);
 	padding-top: 1.5em;
