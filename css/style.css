@@ -102,9 +102,9 @@ img.center {
 	overflow: hidden;
 }
 
-.footer  p {
-	font-size: 0.6em;
-	font-weight: 400;
+.footer {
+	font-size: 0.4em;
+	font-weight: 100;
 	color: rgba(255, 128, 128, 1);
 	padding-top: 1.5em;
 	padding-bottom: 2em;	
