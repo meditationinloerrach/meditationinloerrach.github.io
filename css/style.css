@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,900,300);
 
 body {
-  background: url(../img/gong_transparent_gradient.jpg) no-repeat;
+  background: url(../img/gong_transparent_gradient_lighter_251x512.jpg) no-repeat;
 	padding-left: 100px;
 	font-family: Roboto;
 }
@@ -49,6 +49,7 @@ p {
 	font-weight: 100;
 	font-size: 1em;
 	color: rgba(58, 98, 96, 1);
+	text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
 }
 
 a {
