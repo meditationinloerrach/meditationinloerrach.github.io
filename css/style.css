@@ -46,15 +46,15 @@ h5 {
 }
 
 p {
-	font-weight: 100;
+	font-weight: 300;
 	font-size: 1em;
-	color: rgba(58, 98, 96, 1);
+	color: rgba(40, 40, 40, 1);
 	text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
 }
 
 a {
 	font-weight: 300;
-	color: rgba(117, 201, 198, 1);
+	color: rgba(120, 120, 200, 1);
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
@@ -65,8 +65,9 @@ a:hover {
 }
 
 ul {
-	color: rgba(141, 63, 58, 1);
+	color: rgba(40, 40, 40, 1);
 	list-style-type: none;
+	text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
 }
 
 p.footer {
