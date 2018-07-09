@@ -2,16 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,900,300);
 
 body {
+  background: url(img/gong_transparent_gradient.jpg) no-repeat fixed;
 	font-family: Roboto;
-	font-weight: 400;
-	color: rgba(51,34,153,1);
-	text-align: center;
-	max-width: 60em; 
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: .7em;
-	padding-right: .7em;
-	overflow-y: scroll;
 }
 
 h1 {
