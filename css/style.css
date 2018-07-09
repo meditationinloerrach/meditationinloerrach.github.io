@@ -9,39 +9,40 @@ body {
 
 h1 {
 	font-weight: 900;
-	font-size: 2.5em;
+	font-size: 300%;
 	color: rgba(166, 0, 77, 1);
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.6);
+	-webkit-margin-before: 0.3em;
+	-webkit-margin-after: 0.1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
 }
 
 h2 {
 	color: rgba(174, 66, 36, 1);
-	font-size: 2em;
+	font-size: 200%;
 	font-weight: 300;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.5);
 }
 
 h3 {
-	font-family: 'Bree Serif';
+	font-size: 180%;
+	font-weight: 600;
 	color: rgba(189, 110, 76, 1);
-	font-size: 1.6em;
-	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
-	margin-top: -0.2em;
-	margin-bottom: 0em;
+	-webkit-margin-before: 0.3em;
+	-webkit-margin-after: 0.3em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;	
 }
 
 h4 {
 	color: rgba(166, 0, 77, 1);
-	font-size: 1.2em;
-	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 }
 
 h5 {
 	color: rgba(189, 96, 57, 1);
-	font-size: 1.2em;
-	font-weight: 100;
 	text-shadow: 2px 2px 3px rgba(150, 150, 150, 0.4);
 }
 
@@ -51,8 +52,7 @@ p {
 }
 
 a {
-	font-weight: 300;
-	color: rgba(120, 120, 200, 1);
+	color: rgba(120, 120, 180, 1);
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
@@ -63,7 +63,7 @@ a:hover {
 }
 
 ul {
-	color: rgba(40, 40, 40, 1);
+	color: rgba(120, 120, 120, 1);
 	list-style-type: none;
 	text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.5);
 }
@@ -72,5 +72,5 @@ p.footer {
 	font-size: 80%;
 	color: rgba(128, 128, 128, 1);
 	padding-top: 1.5em;
-	padding-bottom: 2em;	
+	padding-bottom: 2em; 
 }
