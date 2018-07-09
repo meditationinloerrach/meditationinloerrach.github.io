@@ -53,8 +53,6 @@ p {
 a {
 	font-weight: 300;
 	color: rgba(117, 201, 198, 1);
-	border-radius: 3px;
-	text-decoration: none;
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
 }
