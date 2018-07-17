@@ -9,15 +9,17 @@
 	<link rel="stylesheet" href="css/style.css">
 	<script type="text/javascript">
 		//<![CDATA[
-		window.history.replaceState(
-			"Meditation in Lörrach",
-			"Meditation in Lörrach",
-			"http://meditationinloerrach.de");
+		function f() {
+			window.history.replaceState(
+				"Meditation in Lörrach",
+				"Meditation in Lörrach",
+				"http://meditationinloerrach.de");
+		}
 	  //]]>
 	</script>
 </head>
 
-<body>
+<body onload="f();">
 <h1>Meditationsgruppe Lörrach</h1>
 
 <h3>Willkommen!</h3>
