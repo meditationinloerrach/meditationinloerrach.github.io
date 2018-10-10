@@ -69,6 +69,7 @@ Tagesgebühr (mit Mittagessen): 25 Euro (kann nach Absprache reduziert werden).<
 <li>Tel. 07621 84705</li>
 </ul>
 
+
 <p class="footer">
 	Copyright &copy; 2018 by Jeremy Tammik,
 	Fotos Günther Fischer
