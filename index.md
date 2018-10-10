@@ -1,40 +1,14 @@
-<!DOCTYPE html>
-<html lang="de" xml:lang="de" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="content-language" content="de">
-	<title>Meditation in Lörrach</title>
-	<meta name="description" content="Gegenstandslose Meditation in Lörrach">
-	<meta name="keywords" content="zen meditation lörrach loerrach raum der stille alte feuerwache">
-	<link rel="stylesheet" href="css/style.css">
-	<!----
-	<script type="text/javascript">
-		//<![CDATA[
-		function f() {
-			alert('doing');
-			window.history.replaceState(
-				"Meditation in Lörrach",
-				"Meditation in Lörrach",
-				"/test");
-			alert('done');
-		}
-	  //]]>
-	</script>
-	-->
-</head>
+# Meditationsgruppe Lörrach
 
-<body <!--- onload="f()" --> >
-<h1>Meditationsgruppe Lörrach</h1>
+### Willkommen!
 
-<h3>Willkommen!</h3>
+Wir üben gegenstandslose Meditation, wie sie sowohl in der christlichen Kontemplation als auch im buddhistischen Zen praktiziert wird.
 
-<p>Wir üben gegenstandslose Meditation, wie sie sowohl in der christlichen Kontemplation als auch im buddhistischen Zen praktiziert wird.</p>
+Bei dieser Form der Meditation schauen wir, 'wie es ist': wir schauen und hören in uns und versuchen, unseren Blick nicht durch Dogmen, Erwartungen, Vorstellungen oder Wünsche, wie es sein sollte, verstellen zu lassen. Dieser Übungsweg führt zu einer klareren Wahrnehmung, wie und wer wir sind, nämlich letztlich nicht getrennt von unserer Mitwelt. Wir üben beim Meditieren eine aufrechte, offene und freie Haltung und einen aufmerksamen, annehmenden und liebenden Blick &ndash; nicht nur für die Zeit der Meditation, sondern vor allem auch für den Alltag.
 
-<p>Bei dieser Form der Meditation schauen wir, 'wie es ist': wir schauen und hören in uns und versuchen, unseren Blick nicht durch Dogmen, Erwartungen, Vorstellungen oder Wünsche, wie es sein sollte, verstellen zu lassen. Dieser Übungsweg führt zu einer klareren Wahrnehmung, wie und wer wir sind, nämlich letztlich nicht getrennt von unserer Mitwelt. Wir üben beim Meditieren eine aufrechte, offene und freie Haltung und einen aufmerksamen, annehmenden und liebenden Blick &ndash; nicht nur für die Zeit der Meditation, sondern vor allem auch für den Alltag.</p>
+Unsere Übungsabende sind offen für alle, die diesen Weg gehen wollen, egal von welchem Hintergrund her sie kommen.
 
-<p>Unsere Übungsabende sind offen für alle, die diesen Weg gehen wollen, egal von welchem Hintergrund her sie kommen.</p>
-
-<h3>Raum</h3>
+### Raum
 
 <ul>
 <li>Raum der Stille &ndash; <a href="img/raum.jpg">Bild</a></li>
@@ -42,7 +16,7 @@
 <li><a href="https://www.google.ch/maps/dir//Alte+Feuerwache+Burghof+2+79539+Loerrach">Wegbeschreibung</a></li>
 </ul>
 
-<h3>Zeit</h3>
+### Zeit
 
 <ul>
 <li>Dienstag Morgen 6:30 bis 7:30 Uhr</li>
@@ -51,7 +25,7 @@
 <li>&ndash; ausser an Feiertagen</li>
 </ul>
 
-<h3>Veranstaltungen</h3>
+### Veranstaltungen
 
 <ul style="list-style-type:disc">
 <li><b>Meditationsübungstag</b>
@@ -71,7 +45,7 @@ Tagesgebühr (mit Mittagessen): 25 Euro (kann nach Absprache reduziert werden).<
 
 </ul>
 
-<h3>Vergangene Veranstaltungen</h3>
+### Vergangene Veranstaltungen
 
 <ul>
 <li>11:00 Uhr 29. Juli 2018
@@ -80,7 +54,7 @@ Tagesgebühr (mit Mittagessen): 25 Euro (kann nach Absprache reduziert werden).<
 &ndash; Doris Zölls &ndash; <a href="doc/2018-07-29_doris_zoells.pdf">Flyer</a></li>
 </ul>
 	
-<h3>Links &ndash; Zen und Kontemplation</h3>
+### Links &ndash; Zen und Kontemplation
 
 <ul>
 <li><a href="http://www.sonnenhof-holzinshaus.de">Sonnenhof</a></li>
@@ -88,7 +62,7 @@ Tagesgebühr (mit Mittagessen): 25 Euro (kann nach Absprache reduziert werden).<
 <li><a href="https://www.spirituelle-wege.de">Verein Spirituelle Wege</a></li>
 </ul>
 	
-<h3>Kontakt</h3>
+### Kontakt
 
 <ul>
 <li>Dr. Christoph Hövels</li>
@@ -103,7 +77,4 @@ Tagesgebühr (mit Mittagessen): 25 Euro (kann nach Absprache reduziert werden).<
 		source code in the GitHub repository
 	</a>
 </p>
-
-</body>
-</html>
 
